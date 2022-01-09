@@ -1,2 +1,2 @@
 # Heart-Disease
-An ML model to find out whether any person is having heart disease or not
+The goal of our heart disease prediction project is to determine if a patient should be diagnosed with heart disease or not
